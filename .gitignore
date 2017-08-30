@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+*.tlog
+*.db
+*.ilk
+*.idb
+*.log
+*.pdb
+*.ipch
+OpenGL.Ncc/.vs/OpenGL.Ncc/v15/Browse.VC.opendb
